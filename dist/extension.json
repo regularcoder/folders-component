@@ -1,0 +1,8 @@
+{
+    "identifier": "org.yourdomain.folders-component",
+    "name": "Folders",
+    "content_type": "SN|Component",
+    "area": "tags-list",
+    "version": "1.0.3",
+    "url": "https://regularcoder.github.io/folders-component/"
+  }
